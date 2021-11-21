@@ -4,7 +4,7 @@ First part: de novo transcriptome assembly using RNA-Seq data, homology based ap
 
 Second part: Differential gene expression using DESeq2 using Rstudio
 
-## Part I: The tutorial will be on *Adenia hastifolia* (AHA) and will need to repeated for *Passiflora morifolia* (AHA)
+## Part I: The tutorial will be on *Adenia hastifolia* (AHA) and will need to repeated for *Passiflora morifolia* (PMO)
 
 ### Running fastQC for quality assessment on raw read and summarize results with MultiQC
 
