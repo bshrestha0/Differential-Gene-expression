@@ -2,7 +2,7 @@
 Following the protocol- https://github.com/fishercera/TreehopperSeq/blob/master/GoSeq_Walkthrough.md
 
 ## File preparation
-### First file: Output of EnTAP with GO terms
+### Input file: Output of EnTAP with GO terms (output of functional annotation of non-redundant transcript, script- entap.sh).
 
 Staring with "AHA.annotation.csv", this is the output of Entap run that has been modified removing transcripts without any match and isoform ID in the transcript name.
 
