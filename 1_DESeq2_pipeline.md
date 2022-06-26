@@ -1,4 +1,4 @@
-#Differential gene expression using DESeq2 for *Passiflora* and *Adenia* species.
+# Differential gene expression using DESeq2 for *Passiflora* and *Adenia* species.
 
 Part I: de novo transcriptome assembly, and homology based approach to select the gene structure from the assembled transcriptome.
 
